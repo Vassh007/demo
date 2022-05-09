@@ -34,5 +34,40 @@
   }
   to {
     transform: rotate(360deg);
-  }
+  
 }
+}
+#Primary {
+  margin: 9px;
+  font-size: 30px;
+  font-size: xx-large;
+  font-style: inherit;
+  flex: auto;
+  background: black;
+  text-align: -webkit-center;
+  font-family: Lucida sans-serif;
+  padding: 12px;
+  box-sizing: border-box;
+  justify-content: center;
+  align-self: auto;
+  border: groove;
+}
+
+.Button1, .Button2, .Button3 {
+  margin: 9px;
+    font-size: xx-large;
+    font-style: Bold;
+    flex: auto;
+    background: black;
+    text-align: center;
+    font-family: Ariel sans-serif;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: center;
+    border: black;
+    color: white;
+    text-align: center;
+    grid-auto-columns: auto;
+    border-bottom-style: hidden;
+}
+
